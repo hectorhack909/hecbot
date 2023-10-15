@@ -41,6 +41,7 @@
     "youtube-sr": "^4.2.0",
     "ytdl-core": "4.10.0"
   },
+  **"engines":{"node":"16.x"},**
   "directories": {
     "lib": "lib"
   },
